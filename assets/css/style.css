@@ -1,0 +1,39 @@
+body {
+	
+    font-family: 'Carter One', cursive;
+	text-align: center;
+}
+
+.flame {
+    background: url(../images/blueflame.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+}
+
+
+.main-gif-button {
+	margin: 10px;
+	background-color: rgb(255, 0, 0);
+	border-color: grey;
+}
+
+.jumbotron {
+	color: red;
+	text-align: center;
+	background-color: blue;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+p {
+	color: red;
+	font-size: 16px;
+}
+
+div1 {
+    display: inline-block;
+   
+    margin: 10px;
+}
